@@ -1,0 +1,5 @@
+P0:14) É correto afirmar que o diretório .git podem ser excluído? Justifique sua resposta. (-)
+
+Resposta:O diretório .git não pode ser excluído. Sua exclusão ou modificação causa perda dos arquivos do git e tornam o diretório git um diretório comum. Todo o processo armazenado se perderia comprometendo todo o trabalho
+
+Correção: - 

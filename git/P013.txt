@@ -1,0 +1,5 @@
+P0:13) O que você entende por Branch? (100)
+
+Resposta:Branchs são níveis de trabalho do git. A Branch master é a Branch principal do git onde se encontram os arquivos originais e funcionais do repositório. Outras Branchs podem ser criadas durante o trabalho para dividir as partes que estão sendo trabalhadas.
+
+Correção:Ok!

@@ -1,0 +1,5 @@
+P0:01) Qual a finalidade do controle de versão? (80)
+
+Resposta: O controle de versão tem por finalidade dar um maior controle de tudo que foi e está sendo feito em um projeto, por uma pessoa ou um grupo de pessoas, mostrando todas as modificações, afim de mostrar como um projeto foi feito do inicio até a sua versão final sem criar diversos documentos.
+
+Correção: Poderíamos simplificar dizendo: Garantir que as alterações nos arquivos sejam registradas, facilitando a manipulação dos mesmos

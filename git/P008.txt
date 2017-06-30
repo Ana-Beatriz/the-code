@@ -1,0 +1,5 @@
+P0:08) O que você entende por repositório remoto? (80)
+
+Resposta:O repositório remoto é o local na web onde os arquivos ficam armazenados permitindo que sejam acessados de qualquer dispositivo.
+
+Correção:Ok!

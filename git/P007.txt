@@ -1,0 +1,5 @@
+P0:07) É correto afirmar que o comando git log serve para gravar logs do sistema? Justifique sua resposta.(100)
+
+Resposta: Não, o comando git log apresenta um histórico das modificações feitas no repositório do gituhb começando pelas alterações mais recentes.
+
+Correção:Ok!

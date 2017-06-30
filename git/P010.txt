@@ -1,0 +1,7 @@
+P0:10) Descreva o git pull. (0)
+
+Resposta: O git pull envia todas as modificações que eu fiz nos meus arquivos e envia para repositório do github atualizando-o.
+
+Correção: A resposta dada não reflete o comando git pull.
+O git pull baixa as alterações do repositório remoto. Com ele você mantém o seu repositório local atualizado.
+Mais informações: https://git-scm.com/book/pt-br/v1/Git-Essencial-Trabalhando-com-Remotos#Fazendo-o-Fetch-e-Pull-de-Seus-Remotos

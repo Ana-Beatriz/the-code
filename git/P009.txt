@@ -1,0 +1,7 @@
+P0:09) Descreva o git push. (0)
+
+Resposta: O git push serve para que eu pegue todas as informações do repositório do github e traga para a minha área de trabalho, possibilitando trabalhar com as versões atualizadas dos arquivos, prevenindo erros
+
+Correção: A resposta dada não reflete o que o comando git push faz.
+git push envia todos os commits feitos desde a última atualização (git pull) para o repositório remoto.
+Veja mais detalhes na documentação: https://git-scm.com/book/pt-br/v1/Git-Essencial-Trabalhando-com-Remotos#Pushing-Para-Seus-Remotos

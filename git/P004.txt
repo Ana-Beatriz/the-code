@@ -1,0 +1,11 @@
+P0:04) Ao rodar o comando git status, quais os estados que os arquivos podem estar? insira uma breve descrição sobre eles. (0)
+
+Resposta: Untracked files - Arquivos incluídos, mas ainda não adicionados ao github.
+Changes to be committed: Arquivos incluídos e enviados para a área de testes (Staging Area) do github
+nothing to commit: Todos os arquivos foram enviados para o github e não há nada para adicionar.
+
+Correção: Cuidado ao usar o termo github. É preciso entender bem a diferença entre o git e o github.
+staged: Files are ready to be commited
+unstaged: Files with changes that have not been prepared to be commited
+untracked: Files aren't tracked by Git yet. This usually indicates a newly created file
+deleted: File has been deleted and is waiting to be removed from Git

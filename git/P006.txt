@@ -1,0 +1,6 @@
+P0:06) O que você entende por commit? (0)
+
+Resposta: Comando que envia ações ao github, como adicionar e deletar arquivos.
+
+Correção: A ação que grava as alterações locais feitas no repositório Git.
+Depois, com o git push, esses commits são enviados para o repositório remoto

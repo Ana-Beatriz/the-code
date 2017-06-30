@@ -1,0 +1,5 @@
+P0:02) O que é um repositório? (0)
+
+Resposta: Repositório é a pasta oculta utilizada pelo git que contém todos os arquivos criados pelo usuário.
+
+Correção: A definição mais completa seria: um repositório é Um diretório onde o git foi inicializado para controlar a versões dos arquivos.

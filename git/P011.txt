@@ -1,0 +1,5 @@
+P0:11) Dê um exemplo de uma situação na qual você usaria o comando git stash? (90)
+
+Resposta:O git stash é o utilizado quando se quer trocar de Branch sem comitar as alterações feitas. O git stash mantém as o trabalho feito salvou e limpa a área para que se possa trabalhar em outro parte do projeto e depois retornar àquilo que foi salvo.
+
+Correção:Um exemplo seria: Estou trabalhando numa funcionalidade no branch master e chega uma demanda de correção pra eu fazer. Faço o git stash para salvar tudo que estou fazendo e limpar minha area pro estado anterior

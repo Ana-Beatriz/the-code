@@ -1,0 +1,6 @@
+P0:15) Qual a diferença entre Git e GitHub? (-)
+
+Resposta:Git é o programa de controle de versão que é utilizado para controlar e gravar as etapas de modificação de
+os trabalhos permitindo acesso a todas as etapas do processo a qualquer momento
+
+Correção: -

@@ -1,0 +1,5 @@
+P0:12) Pra que serve o comando git diff? (100)
+
+Resposta:O comando git diff serve para mostrar as alterações feitas nos documentos através do comando git diff. Também é utilizado para mostrar as alterações de documentos na staging area.
+
+Correção:Ok!

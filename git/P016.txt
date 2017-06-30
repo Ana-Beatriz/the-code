@@ -1,0 +1,5 @@
+P0:16) Dado o conteúdo postado sobre controle de versão, quais os principais comandos do git na sua opinião: (100)
+
+Resposta:Git add; git commit -m; git status; git log; git push; git pull
+
+Correção:Ok!

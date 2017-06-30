@@ -1,0 +1,5 @@
+P0:03) O que você entende por Untracked files? (95)
+
+Resposta: São arquivos novos que foram salvos, porém não foram adicionados ao github.
+
+Correção: Você está confundindo direto git e github. Estude mais essas diferenças

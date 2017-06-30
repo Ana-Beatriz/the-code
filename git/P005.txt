@@ -1,0 +1,5 @@
+P0:05) O que você entende por Staging Area? (0)
+
+Resposta: Área de testes onde os arquivos e modificações ficam 'em espera' para serem adicionados ao repositório do github ao final do trabalho de verificação.
+
+Correção: A staging Area é o local onde estão os arquivos prontos para serem comitados.
